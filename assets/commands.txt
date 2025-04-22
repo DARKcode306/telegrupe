@@ -1,0 +1,28 @@
+This is a list of commands for the Telegram Bot:
+
+🎵 Music Commands:
+- /search [song name] - Search for a song on YouTube
+- /play [video URL] - Play music from YouTube
+- /download [video URL] - Download music from YouTube
+
+🛡️ Protection Commands:
+- /ban [user] [reason] - Ban a user from the group
+- /kick [user] [reason] - Kick a user from the group
+- /warn [user] [reason] - Warn a user in the group
+- /settings - View and change group settings
+
+ℹ️ General Commands:
+- /start - Start using the bot
+- /help - Show this help message
+
+How to use:
+• To search for a song: Use /search song name
+• To play a song: Use /play video URL or click the play button after searching
+• To download a song: Use /download video URL or click the download button after searching
+• To ban a user: Use /ban @username reason or reply to the user's message with /ban reason
+• For group protection: Add the bot to a group with admin privileges
+
+Owner commands:
+These commands are only available to the bot owner:
+- /broadcast [message] - Send a message to all users
+- /stats - View bot statistics
