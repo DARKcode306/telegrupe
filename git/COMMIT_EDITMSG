@@ -1,0 +1,13 @@
+Assistant checkpoint: Fix buttons by using edit_caption instead of edit_text
+
+Assistant generated file changes:
+- main.py: Fix buttons by using edit_caption instead of edit_text, Fix admin panel button
+
+---
+
+User prompt:
+
+زر اضافة للمجموعة و لوحة تحكم المشرف لا يعملان
+
+Replit-Commit-Author: Assistant
+Replit-Commit-Session-Id: bc56a026-7ec4-43ef-b1f3-3a47cf473243
